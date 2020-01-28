@@ -35,13 +35,12 @@ Here we generate all the tags.
     <div class="row">
         <div class="col-2">
             <a href="{{ site.baseurl }}/">[ Home ]</a>
-            <h1>{{ site.title }}</h1>
             <article>
                 <h1>Tags</h1>
             </article>
             {% for tag in tags %}
             <article>
-                <h1 id="{{ tag | slugify}}">{{ tag }}</h1>
+                <h2 id="{{ tag | slugify}}">{{ tag }}</h2>
                 <ul>
                     {% for post in site.posts %}
                     {% if post.tags contains tag %}
