@@ -1,12 +1,21 @@
 body {
   background-color: #eee;
   color: #000;
-  font-size: 1rem;
+  font-size: 12pt;
 }
 
 hr {
   border: 3px dashed #000;
   border-style: none none dashed;
+}
+
+h1 {
+  margin-bottom: 4px;
+}
+
+h2 {
+  margin-top: 4px;
+  margin-bottom: 0px;
 }
 
 .about {
