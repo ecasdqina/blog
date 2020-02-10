@@ -14,12 +14,14 @@ isIndex: True
         <h1>Posts</h1>
       </article>
       {% for post in paginator.posts %}
+      {% unless post.tags contains 'test' %}
       <article>
         <h2>{{ post.title }}</h2>
         <small>{% include link_date.html %}</small>
         <p>{{ post.excerpt }}</p>
         <a href="{{ site.baseurl }}{{ post.url }}">[ Read ]</a>
       </article>
+      {% endunless %}
       {% endfor %}
       {% include buttons.html %}
     </div>
