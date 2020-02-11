@@ -19,6 +19,7 @@ category: compro
 - Writer(AtCoder ID): <a href="https://atcoder.jp/users/ecasdqina">ecasdqina</a>, <a href="https://atcoder.jp/users/sheyasutaka">sheyasutaka</a>, <a href="https://atcoder.jp/users/toma25">toma25</a>
 - 問題数: 7 問
 - 配点: 100-200-300-400-500-600-1000
+- 告知動画：<a href="https://www.nicovideo.jp/watch/sm36353557">【きり誕 2020】きりたんお誕生日コンテスト 2020 告知動画【競技プログラミング】</a>
 
 初心者から経験者まで歓迎です！　皆様、是非ご参加ください！
 
