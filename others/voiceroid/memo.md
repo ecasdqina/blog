@@ -12,6 +12,6 @@ category: voiceroid
 
 
 ## 解説動画
-
+- <a target="_blank" href="https://www.nicovideo.jp/watch/sm36331706">【ニコニコ動画】【ラベルの読み方】3分でわかるワイン【VOICEROID解説】</a>
 
 ## 音楽動画
